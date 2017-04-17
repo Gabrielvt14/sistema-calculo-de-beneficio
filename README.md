@@ -15,6 +15,6 @@ Depois do cálculo realizado, o sistema lhe apresenta os dias úteis referente a
 
 E por último, o botão "Fazer outro cálculo", quando clicado, ele recarrega a página para realizar outro cálculo.
 
-<i>Sistema desenvolvido por <b><a href="https://github.com/Gabrielvt14">Gabriel Vieira Teodoro</a></b>.
+<i>Sistema desenvolvido por <b><a href="https://github.com/Gabrielvt14" target="_blank">Gabriel Vieira Teodoro</a></b>.
 
 Este sistema é totalmente livre para uso e/ou edição do mesmo!</i>
