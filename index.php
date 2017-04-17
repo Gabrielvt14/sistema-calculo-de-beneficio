@@ -162,8 +162,6 @@
       </div>";
       exit;
       }
-      
-    }
   ?>
       <!-- Inicia as mensagem após o calculo -->
     <p><span style="background-color: #E6E6FA;">O mês do ano que você selecionou tem <span style="color: red;"><?php echo $totalDiasMes; ?> dias úteis.</span></span></p>
