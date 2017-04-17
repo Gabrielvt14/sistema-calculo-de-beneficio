@@ -1,4 +1,4 @@
-# sistema para cálculo de benefícios
+# Sistema para cálculo de benefícios
 
 Para utilização do sistema basta somente executar o arquivo index no navegador.
 
